@@ -24,3 +24,5 @@ This project is a simple serverless To-Do List API built using AWS Lambda, API G
 ## Example
 ```bash
 curl -X POST -d '{"description":"Buy milk"}' https://<api-id>.execute-api.<region>.amazonaws.com/dev/todos
+
+
